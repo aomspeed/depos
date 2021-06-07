@@ -1,0 +1,137 @@
+[
+  {
+    "orgRef": "org_01",
+    "name": "โรงพยาบาลแห่งชาติ",
+    "parentOrgRef": null,
+    "timezone": "+07:00",
+    "clinics": null
+  },
+  {
+    "orgRef": "org_02",
+    "name": "โรงพยาบาลจังหวัด",
+    "parentOrgRef": "org_01",
+    "timezone": "+07:00",
+    "clinics": [
+      {
+        "clinicRef": "ncd_01",
+        "name": "อายุรกรรม 1",
+        "description": "description of ncd_01",
+        "operations": [
+          {
+            "days": [
+              0, 1, 2, 3, 4
+            ],
+            "open": "09:30",
+            "close": "12:00",
+            "capacity": 30
+          },
+          {
+            "days": [
+              0, 2, 4
+            ],
+            "open": "13:00",
+            "close": "17:00",
+            "capacity": 20
+          }
+        ]
+      },
+      {
+        "clinicRef": "ncd_02",
+        "name": "อายุรกรรม 2",
+        "description": "description of ncd_02",
+        "operations": [
+          {
+            "days": [
+              3
+            ],
+            "open": "09:00",
+            "close": "10:00",
+            "capacity": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orgRef": "org_03",
+    "name": "โรงพยาบาลอำเภอ",
+    "parentOrgRef": "org_02",
+    "timezone": "+07:00",
+    "clinics": [
+      {
+        "clinicRef": "ncd_01",
+        "name": "อายุรกรรม 1",
+        "description": "description of ncd_01",
+        "operations": [
+          {
+            "days": [
+              0, 1, 2, 3, 4
+            ],
+            "open": "09:30",
+            "close": "12:00",
+            "capacity": 30
+          },
+          {
+            "days": [
+              0, 2, 4
+            ],
+            "open": "13:00",
+            "close": "17:00",
+            "capacity": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orgRef": "org_05",
+    "name": "โรงพยาบาลอีกอำเภอ",
+    "parentOrgRef": "org_02",
+    "timezone": "+07:00",
+    "clinics": [
+      {
+        "clinicRef": "ncd_03",
+        "name": "อายุรกรรม 3",
+        "description": "description of ncd_03",
+        "operations": [
+          {
+            "days": [
+              0, 1, 2, 3, 4
+            ],
+            "open": "09:30",
+            "close": "12:00",
+            "capacity": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "orgRef": "org_wow_01",
+    "name": "รพสต",
+    "parentOrgRef": "org_03",
+    "timezone": "+07:00",
+    "clinics": []
+  },
+  {
+    "orgRef": "org_wow_02",
+    "name": "รพสต2",
+    "parentOrgRef": "org_03",
+    "timezone": "+07:00",
+    "clinics": []
+  },
+  {
+    "orgRef": "org_wow_03",
+    "name": "รพสต อีกอำเภอ",
+    "parentOrgRef": "org_05",
+    "timezone": "+07:00",
+    "clinics": []
+  },
+  {
+    "orgRef": "org_wow_04",
+    "name": "รพสต เด็กเส้น",
+    "parentOrgRef": "org_02",
+    "timezone": "+07:00",
+    "clinics": []
+  }
+]

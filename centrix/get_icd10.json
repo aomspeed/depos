@@ -1,0 +1,518 @@
+[
+   {
+      "type":"header",
+      "version":"5.0.4",
+      "comment":"Export to JSON plugin for PHPMyAdmin"
+   },
+   {
+      "type":"database",
+      "name":"clicknic_hospital_centrix"
+   },
+   {
+      "type":"table",
+      "name":"icd10",
+      "database":"clicknic_hospital_centrix",
+      "data":[
+         {
+            "icdRef":"A00",
+            "description":"Cholera",
+            "descriptionTh":"อหิวาตกโรค"
+         },
+         {
+            "icdRef":"A000",
+            "description":"Cholera due to Vibrio cholerae 01, biovar cholerae",
+            "descriptionTh":"อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเรโอ 1 ไบอาวาร์ คอเลเร"
+         },
+         {
+            "icdRef":"A001",
+            "description":"Cholera due to Vibrio cholerae 01, biovar eltor",
+            "descriptionTh":"อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเรโอ 1 ไบอาวาร์ เอลทอร์"
+         },
+         {
+            "icdRef":"A009",
+            "description":"Cholera, unspecified",
+            "descriptionTh":"อหิวาตกโรค ไม่ระบุรายละเอียด"
+         },
+         {
+            "icdRef":"A01",
+            "description":"Typhoid and paratyphoid fevers",
+            "descriptionTh":"ไข้รากสาดน้อย (ไทฟอยด์) และไข้รากสาดเทียม (พาราไทฟอยด์)"
+         },
+         {
+            "icdRef":"A010",
+            "description":"Typhoid fever",
+            "descriptionTh":"ไข้รากสาดน้อย (ไทฟอยด์)"
+         },
+         {
+            "icdRef":"A011",
+            "description":"Paratyphoid fever A",
+            "descriptionTh":"ไข้รากสาดเทียม (พาราไทฟอยด์) เอ"
+         },
+         {
+            "icdRef":"A012",
+            "description":"Paratyphoid fever B",
+            "descriptionTh":"ไข้รากสาดเทียม (พาราไทฟอยด์) บี"
+         },
+         {
+            "icdRef":"A013",
+            "description":"Paratyphoid fever C",
+            "descriptionTh":"ไข้รากสาดเทียม (พาราไทฟอยด์) ซี"
+         },
+         {
+            "icdRef":"A014",
+            "description":"Paratyphoid fever, unspecified",
+            "descriptionTh":"ไข้รากสาดเทียม (พาราไทฟอยด์) ไม่ระบุรายละเอียด"
+         },
+         {
+            "icdRef":"A02",
+            "description":"Other salmonella infections",
+            "descriptionTh":"การติดเชื้อซัลโมเนลลาอื่น"
+         },
+         {
+            "icdRef":"A020",
+            "description":"Salmonella enteritis",
+            "descriptionTh":"ลำไส้เล็กอักเสบจากเชื้อซัลโมเนลลา"
+         },
+         {
+            "icdRef":"A021",
+            "description":"Salmonella septicaemia",
+            "descriptionTh":"การติดเชื้อในกระแสเลือดซัลโมเนลลา"
+         },
+         {
+            "icdRef":"A022",
+            "description":"Localized salmonella infections",
+            "descriptionTh":"การติดเชื้อซัลโมเนลลาเฉพาะที่"
+         },
+         {
+            "icdRef":"A028",
+            "description":"Other specified salmonella infections",
+            "descriptionTh":"การติดเชื้อซัลโมเนลลาอื่นที่ระบุรายละเอียด"
+         },
+         {
+            "icdRef":"A029",
+            "description":"Salmonella infection, unspecified",
+            "descriptionTh":"การติดเชื้อซัลโมเนลลาที่ไม่ระบุรายละเอียด"
+         },
+         {
+            "icdRef":"A03",
+            "description":"Shigellosis",
+            "descriptionTh":"โรคบิดจากเชื้อชิเกลลา"
+         },
+         {
+            "icdRef":"A030",
+            "description":"Shigellosis due to Shigella dysenteriae",
+            "descriptionTh":"โรคบิดจากเชื้อ ชิเกลลา ดิสเซ็นเทอร์"
+         },
+         {
+            "icdRef":"A031",
+            "description":"Shigellosis due to Shigella flexneri",
+            "descriptionTh":"โรคบิดจากเชื้อ ชิเกลลา เฟล็กซ์เนอรี"
+         },
+         {
+            "icdRef":"A032",
+            "description":"Shigellosis due to Shigella boydii",
+            "descriptionTh":"โรคบิดจากเชื้อ ชิเกลลา บอยดีไอ"
+         },
+         {
+            "icdRef":"A033",
+            "description":"Shigellosis due to Shigella sonnei",
+            "descriptionTh":"โรคบิดจากเชื้อ ชิเกลลา ซอนนีไอ"
+         },
+         {
+            "icdRef":"A038",
+            "description":"Other shigellosis",
+            "descriptionTh":"โรคบิดจากเชื้อชิเกลลาอื่น"
+         },
+         {
+            "icdRef":"A039",
+            "description":"Shigellosis, unspecified",
+            "descriptionTh":"โรคบิดจากเชื้อชิเกลลา ไม่ระบุรายละเอียด"
+         },
+         {
+            "icdRef":"A04",
+            "description":"Other bacterial intestinal infections",
+            "descriptionTh":"โรคติดเชื้อแบคทีเรียอื่นที่ี่ลำไส้"
+         },
+         {
+            "icdRef":"A040",
+            "description":"Enteropathogenic Escherichia coli infection",
+            "descriptionTh":"การติดเชื้อเอสเชอริเซีย โคโล ชนิดทำให้เกิดพยาธิสภาพในลำไส้"
+         },
+         {
+            "icdRef":"A041",
+            "description":"Enterotoxigenic Escherichia coli infection",
+            "descriptionTh":"การติดเชื้อเอสเชอริเซีย โคโล ชนิดเป็นสารพิษต่อลำไส้"
+         },
+         {
+            "icdRef":"A042",
+            "description":"Enteroinvasive Escherichia coli infection",
+            "descriptionTh":"การติดเชื้อเอสเชอริเซีย โคโล ชนิดแทรกผ่านลำไส้ได้"
+         },
+         {
+            "icdRef":"A043",
+            "description":"Enterohaemorrhagic Escherichia coli infection",
+            "descriptionTh":"การติดเชื้อเอสเชอริเซีย โคโล ชนิดทำให้เลือดออกในลำไส้"
+         },
+         {
+            "icdRef":"A044",
+            "description":"Other intestinal Escherichia coli infections",
+            "descriptionTh":"การติดเชื้อเอสเชอริเซีย โคโล ชนิดอื่นที่ลำไส้"
+         },
+         {
+            "icdRef":"A045",
+            "description":"Campylobacter enteritis",
+            "descriptionTh":"ลำไส้เล็กอักเสบจากเชื้อแคมไพโลแบกเดอร์"
+         },
+         {
+            "icdRef":"A046",
+            "description":"Enteritis due to Yersinia enterocolitica",
+            "descriptionTh":"ลำไส้เล็กอักเสบจากเชื้อเยอร์ซิเนีย เอ็นเทอโรโคไลติกา"
+         },
+         {
+            "icdRef":"A047",
+            "description":"Enterocolitis due to Clostridium difficile   Antibiotic  associated  colitis    Ps",
+            "descriptionTh":"ลำไส้เล็กอักเสบจากเชื้อคลอสตริเดียม ดิฟฟิไซล์"
+         },
+         {
+            "icdRef":"A048",
+            "description":"Other specified bacterial intestinal infections",
+            "descriptionTh":"โรคติดเชื้อแบคทีเรียอื่นที่ระบุรายละเอียดที่ลำไส้"
+         },
+         {
+            "icdRef":"A049",
+            "description":"Bacterial intestinal infection, unspecified",
+            "descriptionTh":"โรคติดเชื้อแบคทีเรียที่ลำไส้ ไม่ระบุรายละเอียด"
+         },
+         {
+            "icdRef":"A05",
+            "description":"Other bacterial foodborne intoxications",
+            "descriptionTh":"อาหารเป็นพิษจากเชื้อแบคทีเรียอื่น มิได้จำแนกไว้ที่ใด"
+         },
+         {
+            "icdRef":"A050",
+            "description":"Foodborne staphylococcal intoxication",
+            "descriptionTh":"อาหารเป็นพิษจากเชื้อสแตฟิโลค๊อกคัส"
+         },
+         {
+            "icdRef":"A051",
+            "description":"Botulism",
+            "descriptionTh":"โบทูลิซึม"
+         },
+         {
+            "icdRef":"A052",
+            "description":"Foodborne Clostridium perfringens [Clostridium welchii]",
+            "descriptionTh":"อาหารเป็นพิษจากเชื้อ คลอสตริเดียม เพอร์ฟริงเจนส์ (คลอสตริเดียม เวลชิไอ)"
+         },
+         {
+            "icdRef":"A053",
+            "description":"Foodborne Vibrio parahaemolyticus intoxication",
+            "descriptionTh":"อาหารเป็นพิษจากเชื้อ วิบริโอ พาราฮีโมไลติคัส"
+         },
+         {
+            "icdRef":"A054",
+            "description":"Foodborne Bacillus cereus intoxication",
+            "descriptionTh":"อาหารเป็นพิษจากเชื้อ แบชิลลัส เชอเรียส"
+         },
+         {
+            "icdRef":"A058",
+            "description":"Other specified bacterial foodborne intoxications",
+            "descriptionTh":"อาหารเป็นพิษจากเชื้อแบคทีเรียอื่นที่ระบุรายละเอียด"
+         },
+         {
+            "icdRef":"A059",
+            "description":"Bacterial foodborne intoxication, unspecified",
+            "descriptionTh":"อาหารเป็นพิษจากเชื้อแบคทีเรีย ไม่ระบุรายละเอียด"
+         },
+         {
+            "icdRef":"A06",
+            "description":"Amoebiasis",
+            "descriptionTh":"โรคติดเชื้ออะมีบา"
+         },
+         {
+            "icdRef":"A060",
+            "description":"Acute amoebic dysentery",
+            "descriptionTh":"โรคบิดมีตัวเฉียบพลัน"
+         },
+         {
+            "icdRef":"A061",
+            "description":"Chronic interstinal amoebiasis",
+            "descriptionTh":"โรคบิดมีตัวเรื้อรัง"
+         },
+         {
+            "icdRef":"A062",
+            "description":"Amoebic nondysenteric colitis",
+            "descriptionTh":"ลำไส้ใหญ่อักเสบจากอะมีบาโดยไม่เป็นบิด"
+         },
+         {
+            "icdRef":"A063",
+            "description":"Amoeboma of intestine",
+            "descriptionTh":"อะมีโบมาที่ลำไส้"
+         },
+         {
+            "icdRef":"A064",
+            "description":"Amoebic liver abscess",
+            "descriptionTh":"ฝีในตับจากอะมีบา"
+         },
+         {
+            "icdRef":"A065",
+            "description":"Amoebic lung abscess (J99.8*)",
+            "descriptionTh":"ฝีในปอดจากอะมีบา (J99.8*)"
+         },
+         {
+            "icdRef":"A066",
+            "description":"Amoebic brain abscess (G07*)",
+            "descriptionTh":"ฝีในสมองจากอะมีบา (G07*)"
+         },
+         {
+            "icdRef":"A067",
+            "description":"Cutaneous amoebiasis",
+            "descriptionTh":"โรคติดเชื้ออะมีบาที่ผิวหนัง"
+         },
+         {
+            "icdRef":"A068",
+            "description":"Amoebic infection of other sites",
+            "descriptionTh":"โรคติดเชื้ออะมีบาที่ตำแหน่งอื่น"
+         },
+         {
+            "icdRef":"A069",
+            "description":"Amoebiasis, unspecified",
+            "descriptionTh":"โรคติดเชื้ออะมีบา ไม่ระบุรายละเอียด"
+         },
+         {
+            "icdRef":"A07",
+            "description":"Other protozoal intestinal diseases",
+            "descriptionTh":"โรคติดเชื้อที่ลำไส้จากโปรโตซัวอื่น"
+         },
+         {
+            "icdRef":"A070",
+            "description":"Balantidiasis",
+            "descriptionTh":"โรคติดเชื้อบาแลนติเดียม"
+         },
+         {
+            "icdRef":"A071",
+            "description":"Giardiasis [lambliasis]",
+            "descriptionTh":"โรคติดเชื้อไกอาร์เดีย (แลมเบลีย)"
+         },
+         {
+            "icdRef":"A072",
+            "description":"Cryptosporidiosis",
+            "descriptionTh":"โรคติดเชื้อคริปโตสปอริเดียม"
+         },
+         {
+            "icdRef":"A073",
+            "description":"Isosporiasis",
+            "descriptionTh":"โรคติดเชื้อไอโซสปอรา"
+         },
+         {
+            "icdRef":"A078",
+            "description":"Other specified protozoal intestinal diseases",
+            "descriptionTh":"โรคติดเชื้อลำไส้จากโปรโตซัวที่ระบุเฉพาะ"
+         },
+         {
+            "icdRef":"A079",
+            "description":"Protozoal intestinal disease, unspecified",
+            "descriptionTh":"โรคติดเชื้อที่ลำไส้จากโปรโตซัว ไม่ระบุรายละเอียด"
+         },
+         {
+            "icdRef":"A08",
+            "description":"Viral and other specified intestinal infections",
+            "descriptionTh":"การติดเชื้อที่ลำไส้จากไวรัสและการติดเชื้อที่ลำไส้ ซึ่งระบุชนิดของเชื้อเป็นอย่างอื่น"
+         },
+         {
+            "icdRef":"A080",
+            "description":"Rotaviral enteritis",
+            "descriptionTh":"ลำไส้เล็กอักเสบจากเชื้อโรตาไวรัส"
+         },
+         {
+            "icdRef":"A081",
+            "description":"Acute gestroenteropathy due to Norwalk agent",
+            "descriptionTh":"โรคกระเพราะอาหารและลำไส้เฉียบพลันจากเชื้อนอร์วอล์ก"
+         },
+         {
+            "icdRef":"A082",
+            "description":"Adenoviral enteritis",
+            "descriptionTh":"ลำไส้เล็กอักเสบจากอะดิโนไวรัส"
+         },
+         {
+            "icdRef":"A083",
+            "description":"Other viral enteritis",
+            "descriptionTh":"ลำไส้เล็กอักเสบจากไวรัสอื่น"
+         },
+         {
+            "icdRef":"A084",
+            "description":"Viral intestinal infection, unspecified",
+            "descriptionTh":"โรคติดเชื้อที่ลำไส้จากไวรัสซึ่งไม่ระบุชนิด"
+         },
+         {
+            "icdRef":"A085",
+            "description":"Other specified intestinal infections",
+            "descriptionTh":"โรคติดเชื้อที่ลำไส้ซึ่งระบุชนิดของเชื้อเป็นอย่างอื่น"
+         },
+         {
+            "icdRef":"A09",
+            "description":"Diarrhoea and gastroenteritis of presumed infectious origin",
+            "descriptionTh":"อาการท้องร่วง  กระเพาะและลำไส้อักเสบซึ่งสันนิษฐานว่าเกิดจากการติดเชื้อ"
+         },
+         {
+            "icdRef":"A090",
+            "description":"Other and unspecified gastroenteritis and colitis",
+            "descriptionTh":"ท้องร่วงจากการติดเชื้อ"
+         },
+         {
+            "icdRef":"A099",
+            "description":"Gastroenteritis and colitis of unspecified origin",
+            "descriptionTh":"กระเพาะอาหารกับลำไส้อักเสบ และลำไส้อักเสบจากสาเหตุที่ไม่ระบุรายละเอียด"
+         },
+         {
+            "icdRef":"A15",
+            "description":"Respiratory tuberculosis, bacteriologically and histologically confirmed",
+            "descriptionTh":"วัณโรคระบบหายใจ ยืนยันด้วยผลการตรวจหาเชื้อและการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A150",
+            "description":"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",
+            "descriptionTh":"วัณโรคปอด ยืนยันด้วยผลการตรวจเสมหะโดยใช้กล้องจุลทรรศน์ อาจมีหรือไม่มีการเพาะเชื้อ"
+         },
+         {
+            "icdRef":"A151",
+            "description":"Tuberculosis of lung, confirmed by culture only",
+            "descriptionTh":"วัณโรคปอด ยืนยันด้วยผลการเพาะเชื้อเท่านั้น"
+         },
+         {
+            "icdRef":"A152",
+            "description":"Tuberculosis of lung, confirmed histologically",
+            "descriptionTh":"วัณโรคปอด ยืนยันด้วยผลการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A153",
+            "description":"Tuberculosis of lung, confirmed by unspecified means",
+            "descriptionTh":"วัณโรคปอด ยืนยันโดยไม่ระบุวิธี"
+         },
+         {
+            "icdRef":"A154",
+            "description":"Tuberculosis of intrathoracic lymph nodes, confirmed bacteriologically and histologi",
+            "descriptionTh":"วัณโรคต่อมน้ำเหลืองในช่องอก ยืนยันด้วยผลการตรวจหาเชื้อและการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A155",
+            "description":"Tuberculosis of larynx, trachea and bronchus, confirmed bacteriologically and histol",
+            "descriptionTh":"วัณโรคกล่องเสียง ท่อลม และหลอดลม ยืนยันด้วยผลการตรวจหาเชื้อและการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A156",
+            "description":"Tuberculous pleurisy, confirmed bacteriologically and histologically",
+            "descriptionTh":"เยื่อหุ้มปอดอักเสบจากเชื้อวัณโรค ยืนยันด้วยผลการตรวจหาเชื้อและการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A157",
+            "description":"Primary respiratory tuberculosis, confirmed bacteriologically and histologically",
+            "descriptionTh":"วัณโรคระบบหายใจชนิดปฐมภูมิ ยืนยันด้วยผลการตรวจหาเชื้อและการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A158",
+            "description":"Other respiratory tuberculosis, confirmed bacteriologically and histologically",
+            "descriptionTh":"วัณโรคระบบหายใจส่วนอื่น ยืนยันด้วยผลการตรวจหาเชื้อและการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A159",
+            "description":"Respiratory tuberculosis unspecified, confirmed bacteriologically and histologically",
+            "descriptionTh":"วัณโรคระบบหายใจ ไม่ระบุรายละเอียด ยืนยันด้วยผลการตรวจหาเชื้อและการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A16",
+            "description":"Respiratory tuberculosis, not confirmed bacteriologically or histologically",
+            "descriptionTh":"วัณโรคระบบหายใจ ไม่ยืนยันด้วยผลการตรวจหาเชื้อหรือการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A160",
+            "description":"Tuberculosis of lung, bacteriologically and histologically negative",
+            "descriptionTh":"วัณโรคปอด ผลการตรวจหาเชื้อและการตรวจชิ้นเนื้อเป็นลบ"
+         },
+         {
+            "icdRef":"A161",
+            "description":"Tuberculosis of lung ,bacteriological and histological examination not done",
+            "descriptionTh":"วัณโรคปอด ไม่ได้ตรวจหาเชื้อและไม่ได้ตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A162",
+            "description":"Tuberculosis of lung, without mention of bacteriological or histological confirmatio",
+            "descriptionTh":"วัณโรคปอด ไม่ระบุการยืนยันด้วยผลการตรวจหาเชื้อหรือการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A163",
+            "description":"Tuberculosis of intrathoracic lymph nodes, without mention of bacteriological or his",
+            "descriptionTh":"วัณโรคต่อมน้ำเหลืองในช่องอก ไม่ระบุการยืนยันด้วยผลการตรวจหาเชื้อหรือการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A164",
+            "description":"Tuberculosis of larynx, trachea and bronchus, without mention of bacteriological or",
+            "descriptionTh":"วัณโรคกล่องเสียง ท่อลม และหลอดลม ไม่ระบุการยืนยันด้วยผลการตรวจหาเชื้อหรือการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A165",
+            "description":"Tuberculos pleurisy, without mention of bacteriological or histological confirmation",
+            "descriptionTh":"เยื่อหุ้มปอดอักเสบจากเชื้อวัณโรค ไม่ระบุการยืนยันด้วยผลการตรวจหาเชื้อหรือการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A167",
+            "description":"Primary respiratory tuberculosis without mention of bacteriological or histological",
+            "descriptionTh":"วัณโรคระบบหายใจชนิดปฐมภูมิ ไม่ระบุการยืนยันด้วยผลการตรวจหาเชื้อหรือการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A168",
+            "description":"Other respiratory tuberculosis, without mention of bacteriological or histological c",
+            "descriptionTh":"วัณโรคระบบหายใจส่วนอื่น ไม่ระบุการยืนยันด้วยผลการตรวจหาเชื้อหรือการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A169",
+            "description":"Respiratory tuberculosis unspecified, without meantion of bacteriological or histolo",
+            "descriptionTh":"วัณโรคระบบหายใจ ไม่ระบุรายละเอียด ไม่ระบุการยืนยันด้วยผลการตรวจหาเชื้อหรือการตรวจชิ้นเนื้อ"
+         },
+         {
+            "icdRef":"A17",
+            "description":"Tuberculosis of nervous system",
+            "descriptionTh":"วัณโรคระบบประสาท"
+         },
+         {
+            "icdRef":"A170",
+            "description":"Tuberculous meningitis (G01*)",
+            "descriptionTh":"เยื่อหุ้มสมองอักเสบจากเชื้อวัณโรค (G01*)"
+         },
+         {
+            "icdRef":"A171",
+            "description":"Meningeal tuberculoma (G07*)",
+            "descriptionTh":"ฝีวัณโรคเยื่อหุ้มสมอง (G07*)"
+         },
+         {
+            "icdRef":"A178",
+            "description":"Other tuberculosis of nervous system",
+            "descriptionTh":"วัณโรคที่ส่วนอื่นของระบบประสาท"
+         },
+         {
+            "icdRef":"A179",
+            "description":"Tuberculosis of nervous system, unspecified (G99.8*)",
+            "descriptionTh":"วัณโรคระบบประสาท ไม่ระบุรายละเอียด (G99.9*)"
+         },
+         {
+            "icdRef":"A18",
+            "description":"Tuberculosis of other organs",
+            "descriptionTh":"วัณโรคอวัยวะอื่น"
+         },
+         {
+            "icdRef":"A180",
+            "description":"Tuberculosis of bones and joints",
+            "descriptionTh":"วัณโรคกระดูกและข้อ"
+         },
+         {
+            "icdRef":"A181",
+            "description":"Tuberculosis of genitourinary system",
+            "descriptionTh":"วัณโรคระบบสืบพันธุ์และระบบปัสสาวะ"
+         },
+         {
+            "icdRef":"A182",
+            "description":"Tuberculous peripheral lymphadenopathy",
+            "descriptionTh":"วัณโรคต่อมน้ำเหลืองรอบนอก"
+         }
+      ]
+   }
+]
