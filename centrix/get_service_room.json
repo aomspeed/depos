@@ -1,0 +1,37 @@
+[
+    {
+        "clinicRef": "ncd_01",
+        "name": "อายุรกรรม 1",
+        "description": "description of ncd_01",
+        "organizations": [
+            {
+                "organizationRef": "org_02",
+                "organizationName": "โรงพยาบาลจังหวัด",
+                "queueCount": 10,
+                "queueMax": 30,
+                "providerCount": 2
+            },
+            {
+                "organizationRef": "org_03",
+                "organizationName": "โรงพยาบาลอำเภอ",
+                "queueCount": 0,
+                "queueMax": 0,
+                "providerCount": 0
+            }
+        ]
+    },
+    {
+        "clinicRef": "ncd_02",
+        "name": "อายุรกรรม 2",
+        "description": "description of ncd_02",
+        "organizations": [
+            {
+                "organizationRef": "org_02",
+                "organizationName": "โรงพยาบาลจังหวัด",
+                "queueCount": 30,
+                "queueMax": 30,
+                "providerCount": 2
+            }
+        ]
+    }
+]
