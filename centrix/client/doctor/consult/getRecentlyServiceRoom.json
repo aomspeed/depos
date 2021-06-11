@@ -1,0 +1,28 @@
+{
+    "error": null,
+    "message": null,
+    "payload" : [
+        {
+            "clinicRef": "ncd_01",
+            "name": "อายุรกรรม 1",
+            "description": "description of ncd_01",
+            "organizationRef": "org_02",
+            "organizationName": "โรงพยาบาลจังหวัด",
+            "queueCount": 10,
+            "queueMax": 30,
+            "providerCount": 2,
+            "recentlyJoinDate": "2012-04-23T18:25:43.511Z"
+        },
+        {
+            "clinicRef": "ncd_01",
+            "name": "อายุรกรรม 1",
+            "description": "description of ncd_01",
+            "organizationRef": "org_02",
+            "organizationName": "โรงพยาบาลอำเภอ",
+            "queueCount": 30,
+            "queueMax": 30,
+            "providerCount": 0,
+            "recentlyJoinDate": "2012-04-23T18:25:43.511Z"
+        }
+    ]
+}
