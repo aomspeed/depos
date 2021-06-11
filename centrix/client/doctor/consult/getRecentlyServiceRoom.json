@@ -11,7 +11,7 @@
             "queueCount": 10,
             "queueMax": 30,
             "providerCount": 2,
-            "recentlyJoinDate": "2012-04-23T18:25:43.511Z"
+            "recentlyJoinDate": "2021-06-11T09:45:19-0500"
         },
         {
             "clinicRef": "ncd_01",
@@ -22,7 +22,7 @@
             "queueCount": 30,
             "queueMax": 30,
             "providerCount": 0,
-            "recentlyJoinDate": "2012-04-23T18:25:43.511Z"
+            "recentlyJoinDate": "2021-06-11T09:45:19-0500"
         }
     ]
 }
